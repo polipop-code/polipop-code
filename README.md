@@ -1,10 +1,21 @@
-### Hi, I'm Jesus Politron
+### Hi, I'm Jesus Politron, glad to greet you ~
+---
 ![me](https://i.ibb.co/dk8hPMR/github-banner.png)
 
+<p align="center">
+ <a href="https://twitter.com/polipop_art" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111580.png" height="38px" width="38px" />
+   
+ <a href="https://www.instagram.com/polipop_art/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111336.png" height="38px" width="38px" />
+   
+ <a href="https://www.linkedin.com/in/jesus-politron/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111368.png" height="38px" width="38px" />
+   
+ <a href="https://github.com/polipop-code" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111292.png" height="38px" width="38px" />
+</p>
 
-[![Twitter: polipop_art](https://img.shields.io/twitter/follow/polipop_art?style=social)](https://twitter.com/polipop_art) 
-[![Linkedin: Jesus Politron](https://img.shields.io/badge/-Jesus_Politron-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesus-politron/)](https://www.linkedin.com/in/jesus-politron/) 
-[![GitHub: polipop-code](https://img.shields.io/github/followers/polipop-code?label=follow&style=social)](https://github.com/Thaiane)
 
 About me...  
 
