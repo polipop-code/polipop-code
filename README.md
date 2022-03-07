@@ -1,5 +1,5 @@
-### Hi, I'm Jesus Politron, glad to greet you ~
----
+## Hi, I'm Jesus Politron, glad to greet you ~
+
 ![me](https://i.ibb.co/dk8hPMR/github-banner.png)
 
 <p align="center">
