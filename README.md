@@ -1,4 +1,4 @@
-## Hi there, glad to greet you ~
+## 👋 Hi there, glad to greet you ~
 My name is Jesus Politron but just call me "poli" and... yes, this is my readme (～￣▽￣)～
 
 ![me](https://i.ibb.co/dk8hPMR/github-banner.png)
@@ -18,12 +18,18 @@ My name is Jesus Politron but just call me "poli" and... yes, this is my readme 
  </a>
 </p>
 
-About me on code
+## About me
+If I can say something I will say than I love be a creator, write, draw & of course make code and that means than I love
+build responsive, clean and simple, add interactions and make everithing looks and feels good.
+I want to help to build the FUTURE, even if for now I'm a junior developer hehe (╯▽╰ )
+
+
+## Skills
 ```javascript
 const myWayOnDev = {
-  code: [HTML, CSS, Javascript],
-  tools: [MongoDB, Express, React],
+  languages: [HTML, CSS, Javascript],
+  tools&lib: [MongoDB, Express, React, Next.js],
 
- challenge: "I'm actually in the Platzi Master program for become a top developer"
+  challenge: "I'm actually in the Platzi Master program for become a top developer (´▽`ʃ♡ƪ)"
 }
 ```
