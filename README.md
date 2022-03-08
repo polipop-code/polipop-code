@@ -1,4 +1,5 @@
-## Hi, I'm Jesus Politron, glad to greet you ~
+## Hi there, glad to greet you ~
+My name is Jesus Politron but just call me "poli" and... yes, this is my readme (～￣▽￣)～
 
 ![me](https://i.ibb.co/dk8hPMR/github-banner.png)
 
@@ -17,7 +18,7 @@
  </a>
 </p>
 
-Me on code:
+About me on code
 ```javascript
 const myWayOnDev = {
   code: [HTML, CSS, Javascript],
