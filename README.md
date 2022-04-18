@@ -1,7 +1,7 @@
 ## 👋 Hi there, glad to greet you ~
 My name is Jesus Politron but just call me "poli" and... yes, this is my readme (～￣▽￣)～
 
-![me](https://i.ibb.co/dk8hPMR/github-banner.png)
+![me](https://i.ibb.co/31fDqmm/github.png)
 
 <p align="center">
  <a href="https://twitter.com/polipop_art" target="_blank">
