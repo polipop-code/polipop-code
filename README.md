@@ -28,7 +28,7 @@ I want to help to build the FUTURE, even if for now I'm a junior developer hehe 
 ```javascript
 const myWayOnDev = {
   languages: [HTML, CSS, Javascript],
-  tools&lib: [MongoDB, Express, React, Next.js],
+  tools&lib: [React, Next.js, Node.js],
 
   challenge: "I'm actually in the Platzi Master program for become a top developer (´▽`ʃ♡ƪ)"
 }
