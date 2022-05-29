@@ -19,7 +19,7 @@ My name is Jesus Politron but just call me "poli" and... yes, this is my readme 
 </p>
 
 ## About me
-If I can say something I will say than I love be a creator, write, draw & of course make code and that means than I love
+If I can say something I will say than I love be a creator, write, draw & of course make code, and that means than I love
 build responsive, clean and simple, add interactions and make everithing looks and feels good.
 I want to help to build the FUTURE, even if for now I'm a humble developer hehe (╯▽╰ )
 
