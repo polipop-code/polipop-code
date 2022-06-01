@@ -24,7 +24,7 @@ build responsive, clean and simple, add interactions and make everithing looks a
 I want to help to build the FUTURE, even if for now I'm a humble developer hehe (╯▽╰ )
 
 
-## Skills
+## 🛠 Skills
 ```javascript
 const myWayOnDev = {
   languages: [HTML, CSS, Javascript],
