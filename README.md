@@ -34,7 +34,7 @@ I want to help to build the future o(￣▽￣)ブ
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|
 
 ## 📈My stats
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polipop-code&show_icons=true&theme=city_lights)](https://github.com/areyouivan/github-readme-stats)|![Poli's GitHub stats](https://github-readme-stats.vercel.app/api?username=polipop-code&show_icons=true&theme=city_lights)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polipop-code&show_icons=true&theme=city_lights)](https://github.com/polipop-code/github-readme-stats)|![Poli's GitHub stats](https://github-readme-stats.vercel.app/api?username=polipop-code&show_icons=true&theme=city_lights)|
 |---|---|
 
 ```
