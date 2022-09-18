@@ -34,7 +34,10 @@ I want to help to build the future o(￣▽￣)ブ
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|
 
 ## 📈My stats
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polipop-code&show_icons=true&theme=city_lights)](https://github.com/polipop-code/github-readme-stats)|![Poli's GitHub stats](https://github-readme-stats.vercel.app/api?username=polipop-code&show_icons=true&theme=city_lights)|
+|Total contributions|Rank|
 |---|---|
+|<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=polipop-code&theme=city_lights&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=polipop-code&show_icons=true&include_all_commits=true&theme=light&hide_border=true" alt="My github stats" />|
 
-```
+|Preferred languages|
+|---|
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polipop-code&layout=compact&theme=light&hide_border=true" />|
